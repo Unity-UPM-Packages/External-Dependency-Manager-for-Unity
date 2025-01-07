@@ -1,8 +1,8 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
-    "rootNamespace": "ProjectScope.ProjectName.Editor",
+    "name": "com.google.external-dependency-manager.Editor",
+    "rootNamespace": "com.google.external-dependency-manager.Editor",
     "references": [
-        "ProjectScope.ProjectName"
+        "com.google.external-dependency-manager"
     ],
     "includePlatforms": [
         "Editor"

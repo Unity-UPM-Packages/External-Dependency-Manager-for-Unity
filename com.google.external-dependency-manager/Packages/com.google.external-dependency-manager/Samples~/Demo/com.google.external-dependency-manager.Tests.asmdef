@@ -1,7 +1,9 @@
 {
-    "name": "ProjectScope.ProjectName",
-    "rootNamespace": "ProjectScope.ProjectName",
-    "references": [],
+    "name": "com.google.external-dependency-manager.Demo",
+    "rootNamespace": "com.google.external-dependency-manager.Demo",
+    "references": [
+        "com.google.external-dependency-manager"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
