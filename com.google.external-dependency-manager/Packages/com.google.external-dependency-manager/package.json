@@ -10,7 +10,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "repository": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity.git"
+    "repository": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity.git",
+    "url": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity"
   },
   "author": {
     "name": "Unity-UPM-Packages",
