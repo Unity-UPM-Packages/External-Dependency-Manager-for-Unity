@@ -5,12 +5,12 @@
   "keywords": [],
   "version": "1.2.183",
   "unity": "2022.3",
-  "documentationUrl": "https://github.com/Unity-UPM-Packages/com.google.external-dependency-manager#documentation",
-  "changelogUrl": "https://github.com/Unity-UPM-Packages/com.google.external-dependency-manager/releases",
+  "documentationUrl": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity#documentation",
+  "changelogUrl": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity/releases",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "repository": "https://github.com/Unity-UPM-Packages/com.google.external-dependency-manager.git"
+    "repository": "https://github.com/Unity-UPM-Packages/External-Dependency-Manager-for-Unity.git"
   },
   "author": {
     "name": "Unity-UPM-Packages",
