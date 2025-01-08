@@ -1,8 +1,8 @@
 # com.com.google.external-dependency-manager
 
 
-A com.google.external-dependency-manager package for the [Unity](https://unity.com/) Game Engine.
-
+A com.google.external-dependency-manager[README.md](com.google.external-dependency-manager/Packages/com.google.external-dependency-manager/Documentation%7E/README.md) package for the [Unity](https://unity.com/) Game Engine.
+[README.md](com.google.external-dependency-manager/Packages/com.google.external-dependency-manager/Documentation%7E/README.md)
 ## Installing
 
 Requires Unity 2022.3.46 LTS or higher.
@@ -18,7 +18,7 @@ The recommended installation method is though the unity package manager.
   - Name: `TripSoft`
   - URL: `https://verdaccio.tripdev.io`
   - Scope(s):
-    - `com.com.google.external-dependency-manager`
+    - `com.google`
 - Open the Unity Package Manager window
 - Change the Registry from Unity to `My Registries`
 - Add the `com.google.external-dependency-manager` package
