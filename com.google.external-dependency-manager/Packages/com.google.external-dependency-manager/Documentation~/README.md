@@ -1,4 +1,4 @@
-# com.com.google.external-dependency-manager
+# com.google.external-dependency-manager
 
 
 A com.google.external-dependency-manager package for the [Unity](https://unity.com/) Game Engine.

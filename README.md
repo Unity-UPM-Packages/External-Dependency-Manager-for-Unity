@@ -1,4 +1,4 @@
-# com.com.google.external-dependency-manager
+# com.google.external-dependency-manager
 
 
 A com.google.external-dependency-manager[README.md](com.google.external-dependency-manager/Packages/com.google.external-dependency-manager/Documentation%7E/README.md) package for the [Unity](https://unity.com/) Game Engine.
